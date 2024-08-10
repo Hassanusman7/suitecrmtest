@@ -37,8 +37,6 @@
  * reasonably feasible for technical reasons, the Appropriate Legal Notices must
  * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
  */
-die("STG");
-die("Dev");
 if (!defined('sugarEntry')) {
     define('sugarEntry', true);
 }
