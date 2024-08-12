@@ -37,7 +37,7 @@
  * reasonably feasible for technical reasons, the Appropriate Legal Notices must
  * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
  */
-die ("jenkins trigger whenever code change and pushed to github");
+die ("jenkins trigger whenever code change and pushed to github 3");
 if (!defined('sugarEntry')) {
     define('sugarEntry', true);
 }
